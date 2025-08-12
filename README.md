@@ -120,7 +120,7 @@ The goal of this project is to explore the principles of password security by cr
 
 <img width="1000" height="800" src="https://github.com/user-attachments/assets/92f266e7-c0ae-4cea-bd0b-886a0694dce9"/>
 
-    i use severl  onlin tool like  
+    i use several  online tools like  
     https://nordpass.com/secure-password/
     https://passwordmeter.com/
     https://password.kaspersky.com/
